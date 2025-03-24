@@ -126,7 +126,7 @@ header > p {
   padding-left: 10px;
   padding-right: 10px;
   text-shadow:  2px 0 rgba(0, 0, 0, 0.418);
-  margin-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 main > article > h1 {
